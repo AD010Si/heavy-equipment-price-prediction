@@ -84,7 +84,7 @@ Final gradient-boosting models and ensemble:
 ## Reproducing
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/heavy-equipment-price-prediction.git
+git clone https://github.com/AD010Si/heavy-equipment-price-prediction.git
 cd heavy-equipment-price-prediction
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
