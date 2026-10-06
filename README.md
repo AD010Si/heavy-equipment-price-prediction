@@ -1,6 +1,6 @@
 # Heavy Equipment Selling Price Prediction
 
-[![tests](https://github.com/YOUR_USERNAME/heavy-equipment-price-prediction/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/heavy-equipment-price-prediction/actions)
+[![tests](https://github.com/AD010Si/heavy-equipment-price-prediction/actions/workflows/ci.yml/badge.svg)](https://github.com/AD010Si/heavy-equipment-price-prediction/actions)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 A **supervised machine learning** project: predicting the sale price (USD) of heavy industrial machinery from transactional records, technical specifications and usage data. Built for the *Heavy Equipment Selling Price Prediction Challenge* on Kaggle.
