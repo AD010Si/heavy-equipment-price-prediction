@@ -1,0 +1,21 @@
+# Data & artifacts (never commit competition data or trained models)
+data/raw/
+data/processed/
+*.csv
+!submissions/.gitkeep
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+catboost_info/
